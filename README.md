@@ -12,7 +12,7 @@ BATCH DURATION JANUARY 5th 2025 to FEBRUARY 5th 2025
 MENTOR NAME NEELA SANTHOSH KUMAR
 
 *DESCRIPTION OF THE TASK *
-[16:43, 30/01/2025] Varsha: Deep learning is a subset of machine learning that uses neural networks to learn patterns and make predictions. It is widely used in various applications across industries. Here are some common deep learning tasks:
+
 
 1️⃣ Image Processing & Computer Vision
 
@@ -136,3 +136,7 @@ Conclusion
 
 Deep learning is transforming healthcare, finance, security, robotics, and many other fields.
 **OUTPUT OF THE TASK**
+
+![WhatsApp Image 2025-01-30 at 16 40 43 (1)](https://github.com/user-attachments/assets/c20961eb-06e8-431c-bc73-63b898378a99)
+![WhatsApp Image 2025-01-30 at 16 40 43](https://github.com/user-attachments/assets/14ac38d2-20de-474b-8235-e035c37859e9)
+
